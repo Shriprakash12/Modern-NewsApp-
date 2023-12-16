@@ -15,4 +15,7 @@
     
   ![symbol](https://github.com/Shriprakash12/Modern-NewsApp-/assets/117774163/4f569e6f-8d79-4b21-9304-a72ed69929ff)
 
-  
+
+# Screenshot
+![Screenshot (322)](https://github.com/Shriprakash12/Modern-NewsApp-/assets/117774163/4c106c2f-b823-4cba-9578-372871b852d6)
+
